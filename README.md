@@ -65,7 +65,7 @@
       <h2>🧹 Clean Up & Storage</h2>
       <div class="tip">
         <strong>Enable Storage Sense:</strong> Automatically clean unnecessary files.
-        <br><a href="#" class="https://youtu.be/QIp5nR2NWvg?si=X6UyAerR1GTLG_cz">📺 Watch video</a>
+        <br><a href="#" class="https://youtu.be/QIp5nR2NWvg">📺 Watch video</a>
       </div>
       <div class="tip">
         <strong>Clear Temporary Files:</strong> Use Run (Windows + R) → type `temp` → delete files.
